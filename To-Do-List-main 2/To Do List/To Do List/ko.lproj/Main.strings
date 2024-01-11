@@ -1,0 +1,12 @@
+
+/* Class = "UIBarButtonItem"; title = "삭제"; ObjectID = "Ewb-XA-WUP"; */
+"Ewb-XA-WUP.title" = "삭제";
+
+/* Class = "UIBarButtonItem"; title = "할 일 추가"; ObjectID = "SsG-Bj-tKa"; */
+"SsG-Bj-tKa.title" = "할 일 추가";
+
+/* Class = "UILabel"; text = " "; ObjectID = "j3z-Eu-iQn"; */
+"j3z-Eu-iQn.text" = " ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mb1-gP-hth"; */
+"mb1-gP-hth.text" = "Title";
